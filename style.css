@@ -5,3 +5,16 @@
     background:#0080ff; 
     color:#fff;　
   }
+.form-txtbox {
+    box-sizing:border-box;
+    margin:0;
+    vertical-align:top;
+   
+    width:100%;
+    max-width:250px;
+    height:36px;
+    border:2px solid #0080ff;
+    border-radius:5px;
+    padding:0 10px;
+    font-size:15px;
+  }
